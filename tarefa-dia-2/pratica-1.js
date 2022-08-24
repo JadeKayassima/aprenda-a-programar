@@ -4,4 +4,8 @@ profissao = "Engenheira"
 idade = 27
 lugarDosSonhos = "Japão"
 
-
+console.log(nome)
+console.log(email)
+console.log(profissao)
+console.log(idade)
+console.log(lugarDosSonhos)
